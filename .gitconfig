@@ -2,3 +2,5 @@
 	name = Michael Borden
 [core]
 	excludesfile = ~/.gitignore
+[init]
+	defaultBranch = main
