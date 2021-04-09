@@ -1,9 +1,9 @@
 [submodule ".nvm"]
 	path = .nvm
-	url = ./.nvm
+	url = https://github.com/nvm-sh/nvm
 [submodule ".emacs.d"]
 	path = .emacs.d
-	url = ./.emacs.d
+	url = https://github.com/syl20bnr/spacemacs
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
-	url = ./.oh-my-zsh/
+	url = https://github.com/ohmyzsh/ohmyzsh
