@@ -74,6 +74,7 @@ plugins=(
   git
   nvm
   z
+  zsh-lazyenv
 )
 
 source $ZSH/oh-my-zsh.sh

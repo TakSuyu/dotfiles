@@ -7,3 +7,6 @@
 [submodule ".oh-my-zsh"]
 	path = .oh-my-zsh
 	url = https://github.com/ohmyzsh/ohmyzsh
+[submodule ".zsh.d/plugins/zsh-lazyenv"]
+	path = .zsh.d/plugins/zsh-lazyenv
+	url = https://github.com/black7375/zsh-lazyenv.git
