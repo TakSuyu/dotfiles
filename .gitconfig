@@ -1,5 +1,6 @@
 [user]
 	name = Michael Borden
+	email = michael@quiet.space
 [core]
 	excludesfile = ~/.gitignore
 [init]
