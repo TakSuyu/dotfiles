@@ -1,12 +1,3 @@
-[submodule ".nvm"]
-	path = .nvm
-	url = https://github.com/nvm-sh/nvm.git
-[submodule ".emacs.d"]
-	path = .emacs.d
-	url = https://github.com/syl20bnr/spacemacs.git
-[submodule ".oh-my-zsh"]
-	path = .oh-my-zsh
-	url = https://github.com/ohmyzsh/ohmyzsh.git
-[submodule ".zsh.d/plugins/zsh-lazyenv"]
-	path = .zsh.d/plugins/zsh-lazyenv
-	url = https://github.com/black7375/zsh-lazyenv.git
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = git@github.com:taksuyu/kickstart.nvim.git
